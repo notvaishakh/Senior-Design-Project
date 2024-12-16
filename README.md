@@ -6,7 +6,7 @@
 > Minha Raza (razamh@mail.uc.edu), CS<br>
 > Neha Annareddy (annarenr@mail.uc.edu), CS<br>
 > Ayush Sunkad (sunkadah@mail.uc.edu), CS<br>
-
+> Vaishakh Nair (vibudhvh@mail.uc.edu), CompE<br>
 > Advised by INSERT_PROFESSORS_NAME PhD (INSERT_PROFESSORS_EMAIL), Department of CS
 
 ## Topic
